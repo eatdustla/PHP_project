@@ -12,8 +12,8 @@
       <a href="#" class="logo"><img src="../PHP_project/images/logo.png"></a>
       <ul>
         <li><a href="#">Home</a></li>
-        <li><a href="#">Menu</a></li>
-        <li><a href="#">New</a></li>
+        <li><a href="#">Category</a></li>
+        <li><a href="#">Cart</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
     </header>
